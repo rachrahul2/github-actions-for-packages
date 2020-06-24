@@ -1,6 +1,5 @@
 # This file wont do us much good in this location, make sure you change the path as directed to continue!
-
-yaml name: Docker CD
+name: Docker CD
 
 Build-and-Push-Docker-Image:
     runs-on: ubuntu-latest
